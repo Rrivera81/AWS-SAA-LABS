@@ -13,13 +13,13 @@ explicit Deny on the same resource to prove the evaluation rule.
       "Sid": "AllowRead",
       "Effect": "Allow",
       "Action": "s3:GetObject",
-      "Resource": "arn:aws:s3:::YOUR-BUCKET/*"
+      "Resource": "arn:aws:s3:::DEMO/*"
     },
     {
       "Sid": "DenyRead",
       "Effect": "Deny",
       "Action": "s3:GetObject",
-      "Resource": "arn:aws:s3:::YOUR-BUCKET/*"
+      "Resource": "arn:aws:s3:::Demo/*"
     }
   ]
 }
