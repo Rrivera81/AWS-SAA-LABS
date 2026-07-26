@@ -19,7 +19,7 @@ explicit Deny on the same resource to prove the evaluation rule.
       "Sid": "DenyRead",
       "Effect": "Deny",
       "Action": "s3:GetObject",
-      "Resource": "arn:aws:s3:::Demo/*"
+      "Resource": "arn:aws:s3:::DEMO/*"
     }
   ]
 }
