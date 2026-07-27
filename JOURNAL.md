@@ -1,4 +1,4 @@
-## Day 1 - July 24, 2026
+## Day 1 — July 24, 2026
 Today I just created a AWS free tier account. I had to set up the MFA, Billing and the IAM creating a Admin user as well, 
 at first I had truoble on where to locate all the right channels, 
 but after some time I figured it out. 
