@@ -1,7 +1,7 @@
 # Lab 03 — EC2 Fundamentals
 
 ## What I built
-Launched a t2.micro (Amazon Linux 2023) in us-east-1 with user data
+Launched a t3.micro (Amazon Linux 2023) in us-east-1 with user data
 that installs Apache on boot and serves a page. Configured a security
 group for SSH + HTTP, then tested reachability by breaking and fixing
 the HTTP rule.
