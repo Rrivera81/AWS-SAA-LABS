@@ -28,7 +28,7 @@ at launch to bootstrap the instance. No HTTP rule = no web traffic,
 even though the server is running fine.
 
 ## Core Four — IAM rebuild (from memory)
-- Rep 1 (Jul 25): 2:01
+- Rep 1 (Jul 25): 2:01.41
 - Rep 2 (Jul 26): 1:03.80
 
 <img width="961" height="1051" alt="aws03" src="https://github.com/user-attachments/assets/04cc4249-1049-45a3-a7a9-bd19f654fe24" />
