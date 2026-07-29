@@ -53,8 +53,8 @@ Created a cluster placement group and launched an instance into it.
   for large distributed systems (HDFS, Kafka, Cassandra).
 
 ## Core Four — IAM rebuild (from memory)
-- Rep 1 (Jul 25): 2:01
-- Rep 2 (Jul 26): 1:03
+- Rep 1 (Jul 25): 2:01.41
+- Rep 2 (Jul 26): 1:03.80
 - Rep 3 (Jul 28): 00:38.33
 
 ## Practice test 01 — 15/20 (75%)
