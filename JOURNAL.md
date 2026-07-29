@@ -17,3 +17,11 @@ role = works. Core Four rep 1 (IAM): 2:01.41
 EC2 Fundamentals lab. Launched t3.micro with user data (Apache),
 served a page, tested security group by breaking/fixing the HTTP rule.
 Core Four IAM rep 2: 1:03.80 (down from 2:01.41). Instance terminated.
+
+-------------------------------------------------------------------------------------------------------------------------------
+## Day 4 — July 28, 2026
+Section 6 (EC2 SA-level) done. Lab: proved Elastic IP survives stop/start
+while auto-assigned public IP does not, attached a secondary ENI, confirmed
+ENIs cannot cross AZs, launched into a cluster placement group.
+Practice test 01: 75%. Three misses were decayed material, not new gaps.
+Core Four IAM rep 3.
